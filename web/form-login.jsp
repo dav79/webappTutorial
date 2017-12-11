@@ -21,5 +21,8 @@
         password: <input type="password" name="password" width="10"/>
         <input type="submit" name="btnSend" value="Send"/>
     </form>
+
+    This is changes to Login JSP
+
 </body>
 </html>
